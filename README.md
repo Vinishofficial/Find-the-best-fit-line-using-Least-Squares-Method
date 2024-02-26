@@ -46,7 +46,8 @@ plt.show()
 ```
 
 ## Output:
-![EX 1 OUTPUT ML](https://github.com/Vinishofficial/Find-the-best-fit-line-using-Least-Squares-Method/assets/146931793/a9e82c53-2cd3-4a6a-b9d6-b7d63d36f235)
+![image](https://github.com/Vinishofficial/Find-the-best-fit-line-using-Least-Squares-Method/assets/146931793/0944fe02-db38-40da-b363-1d4569f1aff2)
+
 
 
 
